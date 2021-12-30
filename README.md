@@ -1,4 +1,4 @@
-# modal
+# Modal Factory
 
 ## Project setup
 ```
